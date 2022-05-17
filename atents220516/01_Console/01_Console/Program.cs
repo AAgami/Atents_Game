@@ -24,6 +24,7 @@ namespace _01_Console
             ------------------------------------------------------------
             변수 작성법
             (변수의 종류) (변수의 이름)= (초기값);
+            변수 만드는 것을 선언이라고 한다.
              */
             int strength = 0;
             int dex = 20;
@@ -54,8 +55,37 @@ namespace _01_Console
 
             //exp:f2 라는 식으로 소수점 자리수를 정해서 표현가능하다. 이건 소수점 2개까지 나온다는 듯
 
+            /*스코프(scope) = Range 
+            프로그래밍에서 스코프란 변수가 살아있는 범위를 뜻한다.
+            중괄호가 닫히고 열리고는 한 쌍으로 되어있어야 하고, 변수는 속해있는 중괄호가 끝나면 사라진다..
 
-        
+            int i=0;
+            {
+                int j=20;
+            }
+            j=30; ->j의 스코프 밖이라 접근이 불가능하다.
+
+            "개굴개굴 개구리 노래를 한다"
+            "아들 손자 며느리 다 모여서" 이렇게 출력을 하고싶다.
+             
+             */
+            string linechange0 = "---------------------";
+            string linechange1 = "l";
+            string frogsong0 = "개굴개굴 개구리 노래를 한다~\n아들 손자 며느리 다 모여서~";
+
+            Console.WriteLine(linechange0);
+            Console.WriteLine(frogsong0);
+            Console.WriteLine(linechange0);
+
+            Console.Write("오늘 날짜를 적어주세요! (00/00): ");
+            string inputTest0 = Console.ReadLine();
+
+            Console.WriteLine(linechange0);
+            Console.Write(linechange1);
+            Console.Write($"오늘은 {inputTest0}입니다.");
+            Console.WriteLine(linechange1);
+            Console.WriteLine(linechange0);
+
         }
     }
 }

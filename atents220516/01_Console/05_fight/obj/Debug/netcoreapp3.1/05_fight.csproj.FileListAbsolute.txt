@@ -1,0 +1,14 @@
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\bin\Debug\netcoreapp3.1\05_fight.exe
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\bin\Debug\netcoreapp3.1\05_fight.deps.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\bin\Debug\netcoreapp3.1\05_fight.runtimeconfig.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\bin\Debug\netcoreapp3.1\05_fight.runtimeconfig.dev.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\bin\Debug\netcoreapp3.1\05_fight.dll
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\bin\Debug\netcoreapp3.1\05_fight.pdb
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.AssemblyInfoInputs.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.AssemblyInfo.cs
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.csproj.CoreCompileInputs.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.dll
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.pdb
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.genruntimeconfig.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\05_fight\obj\Debug\netcoreapp3.1\05_fight.csproj.AssemblyReference.cache

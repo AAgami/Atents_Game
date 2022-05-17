@@ -1,0 +1,14 @@
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\bin\Debug\netcoreapp3.1\04_levelup.exe
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\bin\Debug\netcoreapp3.1\04_levelup.deps.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\bin\Debug\netcoreapp3.1\04_levelup.runtimeconfig.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\bin\Debug\netcoreapp3.1\04_levelup.runtimeconfig.dev.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\bin\Debug\netcoreapp3.1\04_levelup.dll
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\bin\Debug\netcoreapp3.1\04_levelup.pdb
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.AssemblyInfoInputs.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.AssemblyInfo.cs
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.csproj.CoreCompileInputs.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.dll
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.pdb
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.genruntimeconfig.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\04_levelup\obj\Debug\netcoreapp3.1\04_levelup.csproj.AssemblyReference.cache

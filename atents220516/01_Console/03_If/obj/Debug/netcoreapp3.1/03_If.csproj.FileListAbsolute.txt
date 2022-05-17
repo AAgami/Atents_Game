@@ -1,0 +1,14 @@
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\bin\Debug\netcoreapp3.1\03_If.exe
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\bin\Debug\netcoreapp3.1\03_If.deps.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\bin\Debug\netcoreapp3.1\03_If.runtimeconfig.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\bin\Debug\netcoreapp3.1\03_If.runtimeconfig.dev.json
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\bin\Debug\netcoreapp3.1\03_If.dll
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\bin\Debug\netcoreapp3.1\03_If.pdb
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.csproj.AssemblyReference.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.AssemblyInfoInputs.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.AssemblyInfo.cs
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.csproj.CoreCompileInputs.cache
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.dll
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.pdb
+C:\Users\Atents\Documents\GitHub\Atents_Game\Atents_Game\atents220516\01_Console\03_If\obj\Debug\netcoreapp3.1\03_If.genruntimeconfig.cache
