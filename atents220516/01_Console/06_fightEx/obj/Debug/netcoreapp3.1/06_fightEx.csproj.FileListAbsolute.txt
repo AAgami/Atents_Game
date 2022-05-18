@@ -1,0 +1,14 @@
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.AssemblyInfoInputs.cache
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.AssemblyInfo.cs
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.csproj.CoreCompileInputs.cache
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\bin\Debug\netcoreapp3.1\06_fightEx.exe
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\bin\Debug\netcoreapp3.1\06_fightEx.deps.json
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\bin\Debug\netcoreapp3.1\06_fightEx.runtimeconfig.json
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\bin\Debug\netcoreapp3.1\06_fightEx.runtimeconfig.dev.json
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\bin\Debug\netcoreapp3.1\06_fightEx.dll
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\bin\Debug\netcoreapp3.1\06_fightEx.pdb
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.dll
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.pdb
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.genruntimeconfig.cache
+D:\Work\03_Program\Atents_Game\atents220516\01_Console\06_fightEx\obj\Debug\netcoreapp3.1\06_fightEx.csproj.AssemblyReference.cache
